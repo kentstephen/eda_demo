@@ -1,0 +1,4 @@
+demo.duckdb
+demo.duckdb.wal
+.env
+eda_demo_venv/
